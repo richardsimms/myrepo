@@ -1,5 +1,3 @@
 line1
-line2 > file.txt
-git status
-echo -e line1nline2
+line2
 line3
